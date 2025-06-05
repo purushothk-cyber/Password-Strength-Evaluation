@@ -1,0 +1,56 @@
+Importance of Symbols, Length, and Character Mix
+
+	A strong password is:
+
+Long (at least 12+ characters)
+
+Complex, using a combination of:
+
+Uppercase letters (A-Z)
+
+Lowercase letters (a-z)
+
+Numbers (0–9)
+
+Symbols (!, @, #, $, %, etc.)
+
+These elements increase entropy (randomness), making brute-force and dictionary attacks much harder.
+
+	Use of Passphrases
+A passphrase is a long sentence or phrase made of random or meaningful words.
+
+Example: Red$Tiger!Runs@Fast2025
+
+	Benefits:
+
+Easy to remember
+
+Very hard to crack
+
+Can include symbols and numbers for added complexity
+
+	Avoid Common Patterns
+Avoid:
+
+Dictionary words like apple, admin, god
+
+Common passwords like 123456, qwerty, password
+
+Personal info (name, DOB, mobile number)
+
+Simple patterns (e.g., aaaa1111, abcd1234)
+
+These are easily guessed or cracked using automated tools in seconds.
+
+	Quick Tips for Creating Strong Passwords
+✅ Minimum 12–16 characters
+
+✅ Mix of upper, lower, digits, and symbols
+
+✅ Avoid repetition and patterns
+
+✅ Don’t reuse old passwords
+
+✅ Use MFA (Multi-Factor Authentication) wherever possible
+
+✅ Consider using a password manager to store and generate secure passwords

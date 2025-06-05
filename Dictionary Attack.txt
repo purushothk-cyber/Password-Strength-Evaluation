@@ -1,0 +1,57 @@
+What is a Dictionary Attack?
+A dictionary attack is a type of password cracking method used by hackers to gain unauthorized access to an account or system.
+
+How It Works:
+The attacker uses a predefined list of words — often common passwords, phrases, or words from the dictionary.
+
+The list is called a "dictionary file", hence the name.
+
+The attack script tries each word in the list one by one until it finds the correct password or exhausts all options.
+
+Example:
+Let’s say someone’s password is:
+nginx
+Copy
+Edit
+iloveyou123
+
+A typical dictionary file might include:
+python-repl
+Copy
+Edit
+password
+123456
+qwerty
+admin
+iloveyou
+welcome
+dragon
+
+
+
+If iloveyou123 or even just iloveyou is on the list, the attacker has a good chance of breaking into the account quickly.
+
+	Why Is This Attack Dangerous?
+Many people use weak or common passwords, making dictionary attacks very effective.
+
+Unlike brute-force (which tries every possible combination), a dictionary attack is faster because it uses likely guesses.
+
+	How to Defend Against It:
+Use long, complex passwords that don’t include common words or names.
+
+Include symbols, numbers, and uppercase/lowercase letters.
+
+Enable Multi-Factor Authentication (MFA).
+
+Use a password manager to generate strong random passwords.
+
+Example of a Secure Password (not vulnerable to dictionary attack):
+shell
+Copy
+Edit
+Jk#91$eA!bQ@4Zx
+ 
+ This password is:
+Not a dictionary word
+Long and random
+Includes symbols, numbers, and mixed case
